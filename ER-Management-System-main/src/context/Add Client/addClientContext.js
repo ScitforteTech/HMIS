@@ -36,6 +36,9 @@ export const ClientProvider = ({ children }) => {
   );
 };
 
+// ✅ Fix: Explicitly define children as a prop for validation
 ClientProvider.propTypes = {
   children: PropTypes.node.isRequired,
 };
+
+export default ClientProvider;
