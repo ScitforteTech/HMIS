@@ -1,5 +1,5 @@
 import express from "express";
-import { ProcedureSubGroup } from "../../models/patientEncounterForm/OT/procedureSubGroupModel.js";
+import { ProcedureSubGroup } from "../../../models/patientEncounterForm/OT/procedureSubGroupModel.js";
 
 const router = express.Router();
 

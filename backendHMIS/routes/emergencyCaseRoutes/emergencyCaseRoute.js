@@ -1,5 +1,5 @@
 import express from "express";
-import { EmergencyCase } from "../../models/emergencyCase/emergencyCase.js";
+import { EmergencyCase } from "../../models/emergencyCase/emergencyCaseModel.js";
 
 const router = express.Router();
 

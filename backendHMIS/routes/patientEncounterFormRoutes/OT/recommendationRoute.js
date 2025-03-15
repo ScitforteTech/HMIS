@@ -1,5 +1,5 @@
 import express from "express";
-import { Recommendation } from "../../models/patientEncounterForm/OT/recommendationModel.js";
+import { Recommendation } from "../../../models/patientEncounterForm/OT/recommendationModel.js";
 
 const router = express.Router();
 

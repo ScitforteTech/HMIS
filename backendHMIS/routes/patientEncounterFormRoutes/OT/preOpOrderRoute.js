@@ -1,5 +1,5 @@
 import express from "express";
-import { PreOpOrder } from "../../models/patientEncounterForm/OT/preOpOrderModel.js";
+import { PreOpOrder } from "../../../models/patientEncounterForm/OT/preOpOrderModel.js";
 
 const router = express.Router();
 

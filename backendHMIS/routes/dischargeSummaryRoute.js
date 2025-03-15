@@ -1,5 +1,5 @@
 import express from "express";
-import { DischargeSummary } from "../../models/DischargeSummary.js";
+import { DischargeSummary } from "../models/dischargeSummaryModel.js";
 
 const router = express.Router();
 

@@ -1,5 +1,5 @@
 import express from "express";
-import { ReceivePatient } from "../../models/receivePatientModel.js";
+import { ReceivePatient } from "../models/receivePatientModel.js";
 
 const router = express.Router();
 

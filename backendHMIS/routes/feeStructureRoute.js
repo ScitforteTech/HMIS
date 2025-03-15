@@ -1,5 +1,5 @@
 import express from "express";
-import { FeeStructure } from "../../models/feeStructureModel.js";
+import { FeeStructure } from "../models/feeStructureModel.js";
 
 const router = express.Router();
 

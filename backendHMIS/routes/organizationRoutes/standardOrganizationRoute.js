@@ -1,5 +1,5 @@
 import express from "express";
-import { StandardOrganization } from "../../models/organization/standardOrganization.js";
+import { StandardOrganization } from "../../models/organization/standardOrganizationModel.js";
 
 const router = express.Router();
 
